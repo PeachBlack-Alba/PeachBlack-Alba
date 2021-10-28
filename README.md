@@ -10,14 +10,14 @@
 <br/>
 
 
-💻 Currently working in [Delivery Hero](https://https://www.deliveryhero.com//), as a Software Engineer.
-🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself. 
-🚀 Focused, active and eager to learn.
-🌈 Pronouns: She/Her
-⚡ Fun fact: I play drums since I am 8 years old, love going to the cinema, galleries and museums.
+- 💻 Currently working in [Delivery Hero](https://https://www.deliveryhero.com//), as a Software Engineer.
+- 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself. 
+- 🚀 Focused, active and eager to learn.
+- 🌈 Pronouns: She/Her
+- ⚡ Fun fact: I play drums since I am 8 years old, love going to the cinema, galleries and museums.
 
 [![Linkedin:](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](www.linkedin.com/in/albatorresrodriguez)
-[![GitHub:](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/PeachBlack-Alba)
+[![GitHub:](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/PeachBlack-Alba)
 
 **Languages and Tools:**  
 
