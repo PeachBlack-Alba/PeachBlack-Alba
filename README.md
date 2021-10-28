@@ -10,7 +10,7 @@
 <br/>
 
 
-- 💻 Currently working in [Delivery Hero](https://https://www.deliveryhero.com//), as a Software Engineer.
+- 💻 Currently working in [Delivery Hero](https://https://www.deliveryhero.com//) as a Software Engineer.
 - 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself. 
 - 🚀 Focused, active and eager to learn.
 - 🌈 Pronouns: She/Her
