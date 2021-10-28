@@ -16,8 +16,6 @@
 - 🌈 Pronouns: She/Her
 - ⚡ Fun fact: I play drums since I am 8 years old, love going to the cinema, galleries and museums.
 
-[![Linkedin:](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](www.linkedin.com/in/albatorresrodriguez)
-[![GitHub:](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/PeachBlack-Alba)
 
 **Languages and Tools:**  
 
