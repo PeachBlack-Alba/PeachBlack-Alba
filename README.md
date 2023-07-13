@@ -17,7 +17,7 @@
 - 🚀 Focused, active and eager to learn.
 - 🌈 Pronouns: She/Her
 - ⚡ Fun fact: I play drums since I am 8 years old, love going to the cinema, galleries and museums.
-- Check my website!  [Here](https://https://www.deliveryhero.com//](https://peachblack-alba.github.io/)
+- Check my website! [Here](https://peachblack-alba.github.io)
 
 
 **Languages and Tools:**  
