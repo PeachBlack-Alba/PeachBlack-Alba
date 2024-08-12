@@ -38,7 +38,7 @@
 <code><img name="css" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
 ### Apps I Worked On
-| App Name             | App Store Link                                                                     | Status     |
+| App Name             | App Link                                                                     | Status     |
 |----------------------|------------------------------------------------------------------------------------|------------|
 | Talabat              | [Talabat](https://www.talabat.com/uae)                                             | ✅ DONE     |
 | Foodora              | [Foodora](https://external.foodpanda.de/)                                          | ✅ DONE     |
