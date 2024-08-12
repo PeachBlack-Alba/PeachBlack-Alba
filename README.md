@@ -15,7 +15,8 @@
 - 💻 Currently working in [Delivery Hero](https://https://www.deliveryhero.com//) as a Software Engineer.
 - 📱 Mobile engineer - CrosPlatfrom and Native 
 - 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself.
-- 👩🏻‍🏫 I mentor in the [mentoring club](https://www.mentoring-club.com/the-mentors/alba-torres-rodriguez). Book your session! 
+- 👩🏻‍🏫 I mentor in the [mentoring club](https://www.mentoring-club.com/the-mentors/alba-torres-rodriguez). Book your session!
+- 🎤 I [talk](https://www.youtube.com/@albatorresrodriguez7956) and [blog](https://medium.com/@albatdr) about mobile development.
 - 🚀 Focused, active and eager to learn.
 - 🌈 Pronouns: She/Her
 - ⚡ Fun fact: I play drums since I am 8 years old, love going to the cinema, galleries and museums.
@@ -26,9 +27,9 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Apple_Inc_logo_white.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img name="firebase" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img name="psql" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
