@@ -12,7 +12,7 @@
 <br/>
 
 
-- 💻 Currently working in [Delivery Hero](https://https://www.deliveryhero.com//) as a Software Engineer.
+- 💻 Currently working in [SeQura](https://www.sequra.com/es) as a Software Engineer.
 - 📱 Mobile engineer - CrossPlatfrom and Native 
 - 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself.
 - 👩🏻‍🏫 I mentor in the [mentoring club](https://www.mentoring-club.com/the-mentors/alba-torres-rodriguez). Book your session!
