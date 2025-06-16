@@ -12,7 +12,7 @@
 <br/>
 
 
-- 💻 Currently working in [SeQura](https://www.sequra.com/es) as a Software Engineer.
+- 💻 Currently working in [Cino](https://www.getcino.com/) as a Software Engineer.
 - 📱 Mobile engineer - CrossPlatfrom and Native 
 - 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself.
 - 👩🏻‍🏫 I mentor in the [mentoring club](https://www.mentoring-club.com/the-mentors/alba-torres-rodriguez). Book your session!
@@ -41,6 +41,7 @@
 ### Apps I Worked On
 | App Name             | App Link                                                                                   | Status     |
 |----------------------|--------------------------------------------------------------------------------------------|------------|
+| Cino                 | [Cino](https://apps.apple.com/es/app/cino-pay-together/id6443988744)                      | ✅ DONE     |
 | seQura               | [seQura](https://play.google.com/store/apps/details?id=com.sequra.app&hl=es_BO&pli=1)     | ✅ DONE     |
 | Talabat              | [Talabat](https://www.talabat.com/uae)                                                    | ✅ DONE     |
 | Foodora              | [Foodora](https://external.foodpanda.de/)                                                 | ✅ DONE     |
