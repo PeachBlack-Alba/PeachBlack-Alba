@@ -38,7 +38,7 @@
 <code><img name="html" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img name="css" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
-### Apps I Worked On
+### Apps I Created and Maintained 
 | App Name             | App Link                                                                                   | Status     |
 |----------------------|--------------------------------------------------------------------------------------------|------------|
 | Cino                 | [Cino](https://apps.apple.com/es/app/cino-pay-together/id6443988744)                      | ✅ DONE     |
