@@ -13,7 +13,7 @@
 
 
 - 💻 Currently working in [Cino](https://www.getcino.com/) as a Software Engineer.
-- 📱 Mobile engineer - CrossPlatfrom and Native 
+- 📱 Mobile engineer - iOS and Android
 - 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself.
 - 👩🏻‍🏫 I mentor in the [mentoring club](https://www.mentoring-club.com/the-mentors/alba-torres-rodriguez). Book your session!
 - 🎤 I [talk](https://www.youtube.com/@albatorresrodriguez7956) and [blog](https://medium.com/@albatdr) about mobile development.
