@@ -12,7 +12,7 @@
 <br/>
 
 
-- 💻 Currently working in [Cino](https://www.getcino.com/) as a Software Engineer.
+- 💻 Currently working in [Cino](https://www.getcino.com/) as an iOS Engineer.
 - 📱 Mobile engineer - iOS and Android
 - 🧠 Ambitious, driven and not scared to take the time, energy and risk to achieve what I have in mind for myself.
 - 👩🏻‍🏫 I mentor in the [mentoring club](https://www.mentoring-club.com/the-mentors/alba-torres-rodriguez). Book your session!
